@@ -37,13 +37,13 @@ What happens if you miss a day of class because you are sick or your alarm doesn
 >  Nolan: Make up the work, "While there is no penalty for missing regular class days (other than the additional work you will need to put in to make up for missed material) there will be a penalty for missing lab days. This penalty may be as large as 20% on the lab assigned that day, depending on the circumstance."
 
 What happens if you turn in a lab late?
-> ...
+> Nolan: "Late labs will be penalized a full letter grade (10%) for each day they are late" 
 
 On what day will you give a presentation on your final project for this course?
-> ...
+> Nolan: May 18, 2018
 
 Where can you find our course textbook?
-> ...
+> Nolan: The course textbook can be found at http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 When are you free during my scheduled office hours?
-> ...
+> Nolan: M 10-11, W 4-4:30, F 4-5
