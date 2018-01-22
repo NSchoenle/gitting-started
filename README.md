@@ -3,7 +3,6 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-<<<<<<< HEAD
 > Abyaya Lamsal
 
 What do you prefer to be called?
@@ -26,7 +25,8 @@ Do you have any questions about the course?
 
 Do you have any other questions for me?
 > Abyaya: None at the moment.
-=======
+
+What are your names as they appear on the class roster?
 > Nolan: Nora Schoenle
 
 What do you prefer to be called?
@@ -49,13 +49,11 @@ Do you have any questions about the course?
 
 Do you have any other questions for me?
 > Nolan: No.
->>>>>>> 54eeff29e087655094bffe54a391cc8f53bcb160
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-<<<<<<< HEAD
 > Abyaya: Attending the class (although will only counts negatively); Participation; Assignments; Labs; Projects
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
@@ -68,11 +66,12 @@ On what day will you give a presentation on your final project for this course?
 > Abyaya: May 16th and May 18th
 
 Where can you find our course textbook?
-> Abyaya: We dont have one
+> Abyaya: http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 When are you free during my scheduled office hours?
 > Abyaya: I am available on Wednesdays and Fridays.
-=======
+
+What work will contribute to your grade in this class?
 > Nolan: Participation ("being present in class (physically and mentally),coming to class prepared, asking questions,
     making contributions to class discussion by volunteering and when called upon, staying on task during collaborative exercies, and working effectively with your group), individual assignments, lab work, final project
 
@@ -90,4 +89,4 @@ Where can you find our course textbook?
 
 When are you free during my scheduled office hours?
 > Nolan: M 10-11, W 4-4:30, F 4-5
->>>>>>> 54eeff29e087655094bffe54a391cc8f53bcb160
+
